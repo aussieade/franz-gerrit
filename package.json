@@ -1,0 +1,24 @@
+{
+  "id": "gerrit",
+  "name": "gerrit",
+  "version": "1.0.0",
+  "description": "gerrit",
+  "main": "index.js",
+  "author": "Aussieade <aussieade@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://review.rc.nectar.org.au/",
+    "serviceName": "Gerrit",
+    "message": "",
+    "popup": [],
+    "hasNotificationSound": false,
+    "hasIndirectMessages": false,
+    "hasTeamID": false,
+    "customURL": false,
+    "hostedOnly": false,
+    "webviewOptions": {
+      "disablewebsecurity": ""
+    },
+    "openDevTools": false
+  }
+}
